@@ -8,12 +8,12 @@ This project focuses on predicting stock prices of Amazon using Machine Learning
 A Linear Regression model from scikit-learn is used to predict the closing price based on features like Open, High, Low, and Volume.
 
 ## 🔧 Technologies Used
-- Python
-- pandas
-- NumPy
-- scikit-learn
-- Matplotlib
-- yfinance
+- Python(Programming)
+- pandas(Data-Handling)
+- NumPy(Computation)
+- scikit-learn(Modelling)
+- Matplotlib(Plotting)
+- yfinance(Fetching)
 
 ## 📈 Machine Learning Model
 - Linear Regression
